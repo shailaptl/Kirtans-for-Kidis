@@ -1,0 +1,53 @@
+#body
+{
+    height: 300px;
+    width: 420px;
+    background-color: steelblue;
+    background-size: 420px 300px;
+    background-position: center;
+    margin: 0px;
+    background-repeat: no-repeat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.header
+{
+    height: 58px;
+    font-size: 34px;
+    text-align: center;
+}
+
+.links, .links2
+{
+    height: 115px;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+}
+
+#bal, #vicharan, #instrumental, #hype, #shant, #everyday
+{
+    width: 140px;
+    text-align: center;
+}
+
+a:link, a:visited
+{
+    color: white;
+    text-decoration: none;
+}
+a:hover
+{
+    color: steelblue;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#contact
+{
+    height: 12px;
+    font-size: 11px;
+    text-align: center;
+}
